@@ -1,0 +1,11 @@
+Дз 12.01.23 
+	1) Смотреть Keggle 
+	2) 3 модели создать
+	3) Лучшие пареметры 
+	4) Коментарии
+
+Cсылка на кегель где надо посмотреть 
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+
+https://www.dmitrymakarov.ru/intro/clustering-16/
+
